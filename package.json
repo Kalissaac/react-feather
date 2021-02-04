@@ -1,5 +1,5 @@
 {
-  "name": "react-feather",
+  "name": "@kalissaac/react-feather",
   "version": "2.0.9",
   "description": "React component for Feather icons",
   "main": "build/index.js",
